@@ -2,15 +2,15 @@
 
 ## Title
 
-Claude Code PM Starter Pack
+Coding Agent PM Skill
 
 ## One-line Description
 
-A free PM workflow pack for planning, assigning, reviewing, and verifying coding-agent work without losing control of scope.
+Plan and review coding-agent work with tight scope control.
 
 ## Long Description
 
-Claude Code PM Starter Pack is a free `$0+` workflow pack for founders, product engineers, and PMs using Claude Code, Codex, OpenClaw, or similar coding agents for real implementation work.
+Coding Agent PM is an installable `SKILL.md` and free `$0+` workflow pack for founders, product engineers, and PMs using Claude Code, Codex, OpenClaw, or similar coding agents for real implementation work.
 
 It includes:
 
@@ -21,6 +21,10 @@ It includes:
 - First-week agent workflow tracker
 
 The pack focuses on the operating loop around coding agents: clear task briefs, explicit acceptance criteria, scoped delegation, rigorous review, recovery from drift, and verification before shipping.
+
+## Repository
+
+https://github.com/kiwi-phantomworks/claude-code-pm-starter-pack
 
 ## Download
 

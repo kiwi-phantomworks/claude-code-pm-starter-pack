@@ -1,6 +1,6 @@
-# Claude Code PM Starter Pack
+# Coding Agent PM Skill
 
-Free PM workflow templates for founders, product engineers, and PMs using Claude Code, Codex, OpenClaw, or similar coding agents.
+An installable `SKILL.md` plus free PM workflow templates for founders, product engineers, and PMs using Claude Code, Codex, OpenClaw, or similar coding agents.
 
 Coding agents are useful, but the failure mode is usually the operating loop:
 
@@ -10,7 +10,17 @@ Coding agents are useful, but the failure mode is usually the operating loop:
 - Review turns into vibes.
 - Verification gets skipped.
 
-This starter pack gives you a lightweight structure for assigning and reviewing coding-agent work without losing control of the project.
+This starter pack gives your agent a lightweight operating loop for assigning and reviewing coding-agent work without losing control of the project.
+
+## Install
+
+Copy this repository into your agent skills folder, or copy `SKILL.md` and `templates/` into an existing skills directory.
+
+Common locations:
+
+- Claude Code: `~/.claude/skills/coding-agent-pm`
+- Codex: `~/.codex/skills/coding-agent-pm`
+- OpenClaw: `~/.openclaw/skills/coding-agent-pm`
 
 ## Included
 
@@ -20,9 +30,9 @@ This starter pack gives you a lightweight structure for assigning and reviewing 
 - Review checklist
 - First-week workflow tracker
 
-## Download
+## Free Download
 
-The full pack is available free on Gumroad:
+The packaged starter pack is also available free on Gumroad:
 
 https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack
 
