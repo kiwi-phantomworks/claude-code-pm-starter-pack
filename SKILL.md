@@ -1,6 +1,14 @@
 ---
 name: coding-agent-pm
 description: Plan, assign, review, and verify coding-agent work with tight scope control and clear acceptance criteria.
+version: 1.0.1
+author: Bridge AI Labs
+license: MIT
+tags:
+  - coding-agents
+  - product-management
+  - agent-workflows
+  - code-review
 ---
 
 # Coding Agent PM
