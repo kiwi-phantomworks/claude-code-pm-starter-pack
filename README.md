@@ -34,7 +34,7 @@ Common locations:
 
 The packaged starter pack is also available free on Gumroad:
 
-https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack
+https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm
 
 ## Works With
 
