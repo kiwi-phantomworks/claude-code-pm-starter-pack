@@ -22,6 +22,12 @@ Common locations:
 - Codex: `~/.codex/skills/coding-agent-pm`
 - OpenClaw: `~/.openclaw/skills/coding-agent-pm`
 
+## Get The Pack
+
+If you want the templates packaged together, download the free `$0+` starter pack on Gumroad. That is also the best place to get future updates:
+
+https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm&utm_content=readme_get_pack
+
 ## Included
 
 - PM agent brief template
@@ -32,9 +38,9 @@ Common locations:
 
 ## Free Download
 
-The packaged starter pack is also available free on Gumroad:
+Prefer a single download instead of cloning the repo?
 
-https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm
+https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm&utm_content=readme_free_download
 
 ## Works With
 
