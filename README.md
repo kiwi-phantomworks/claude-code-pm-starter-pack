@@ -12,6 +12,12 @@ Coding agents are useful, but the failure mode is usually the operating loop:
 
 This starter pack gives your agent a lightweight operating loop for assigning and reviewing coding-agent work without losing control of the project.
 
+## Get The Free Pack
+
+Download the packaged `$0+` starter pack on Gumroad. That is the best place to get the templates together and future updates:
+
+https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm&utm_content=readme_primary_download
+
 ## Install
 
 Copy this repository into your agent skills folder, or copy `SKILL.md` and `templates/` into an existing skills directory.
@@ -21,12 +27,6 @@ Common locations:
 - Claude Code: `~/.claude/skills/coding-agent-pm`
 - Codex: `~/.codex/skills/coding-agent-pm`
 - OpenClaw: `~/.openclaw/skills/coding-agent-pm`
-
-## Get The Pack
-
-If you want the templates packaged together, download the free `$0+` starter pack on Gumroad. That is also the best place to get future updates:
-
-https://phantomworksio.gumroad.com/l/claude-code-pm-starter-pack?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm&utm_content=readme_get_pack
 
 ## Included
 
