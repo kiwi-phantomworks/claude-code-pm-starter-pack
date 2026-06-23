@@ -12,6 +12,12 @@ Coding agents are useful, but the failure mode is usually the operating loop:
 
 This starter pack gives your agent a lightweight operating loop for assigning and reviewing coding-agent work without losing control of the project.
 
+## Why This Exists
+
+Read the short operating note:
+
+https://phantomworks.io/notes/coding-agent-pm-loop?utm_source=github&utm_medium=repo&utm_campaign=coding_agent_pm&utm_content=readme_operating_note
+
 ## Get The Free Pack
 
 Download the packaged `$0+` starter pack on Gumroad. That is the best place to get the templates together and future updates:
